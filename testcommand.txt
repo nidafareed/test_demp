@@ -1,0 +1,12 @@
+
+hi, this my first git file , i hope it works 
+
+
+
+
+
+
+--insert--
+--insert
+testcommand.txt
+git 
